@@ -1,0 +1,2 @@
+# m h  dom mon dow  user  command
+* * * * * echo "123" >> /home/application/demo.txt
