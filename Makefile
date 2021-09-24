@@ -23,6 +23,9 @@ start:
 
 stop:
 	docker-compose stop
+	
+down:
+	docker-compose down
 
 state:
 	docker-compose ps
