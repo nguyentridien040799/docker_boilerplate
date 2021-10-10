@@ -13,14 +13,6 @@
                 "/": "${workspaceFolder}",
                 "/app": "${workspaceFolder}/app"
             }
-        },
-        {
-            "name": "Launch currently open script",
-            "type": "php",
-            "request": "launch",
-            "program": "${file}",
-            "cwd": "${fileDirname}",
-            "port": 10000
         }
     ]
 }
