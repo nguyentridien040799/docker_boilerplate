@@ -7,7 +7,7 @@ This is an easy customizable docker boilerplate for any PHP-based projects like 
 
 Supports:  
 
-- Nginx or Apache HTTPd 
+- Nginx or Apache2 HTTPd 
 - PHP-FPM (with Xdebug)
 - MySQL, MariaDB or PerconaDB
 - PostgreSQL
