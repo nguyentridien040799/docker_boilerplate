@@ -1,4 +1,4 @@
-PHP Docker Boilerplate Changelog3
+PHP Docker Boilerplate Changelog5
 ==================================
 
 5.2.0-beta3 - 2017-01-18
